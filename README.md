@@ -10,12 +10,15 @@ During this 4-week internship, I led the implementation of Sentient Shield, a ce
 
 **2. Weekly Technical Milestones & Deliverables**
 
-Week 1: Infrastructure & Agent Grid
+**Week 1: Infrastructure & Agent Grid**
+
 •	Wazuh Manager Deployment: Orchestrated a containerized Wazuh Manager via Docker, ensuring a scalable and isolated management environment.
  
 •	Multi-Platform Integration: Successfully deployed and verified Agents on Ubuntu Server and Windows Server 2022.
 •	Advanced Telemetry: Installed and configured Sysmon64 on Windows to capture high-fidelity process and network logs (T1059 - Command and Scripting Interpreter).
-Week 2: Detection Logic & Vulnerability Management
+
+**Week 2: Detection Logic & Vulnerability Management**
+
 •	File Integrity Monitoring (FIM): Configured real-time monitoring of critical directories (/etc/, C:\Windows\System32). Validated via PoC by creating/modifying files, resulting in alerts within 5 seconds.
  
 
