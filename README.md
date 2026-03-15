@@ -37,18 +37,6 @@ o	Result: Identified 1,000+ high-risk vulnerabilities on the Windows node and cr
 •	Verification: Simulated an attack; verified the IP was successfully blocked in the host’s local firewall (iptables/netsh).
  
 
- 
-
- 
-
-
-
-
-
-
-
-
-
 **Week 4: Threat Simulation & MITRE Mapping**
 •	Adversary Simulation: Used Atomic Red Team techniques to simulate ransomware behavior (T1490 - Inhibit System Recovery).
  
