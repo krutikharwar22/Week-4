@@ -36,7 +36,7 @@ Vulnerability Detection: Enabled the <vulnerability-detection> module using Cano
 o	Result: Identified 1,000+ high-risk vulnerabilities on the Windows node and critical CVEs (e.g., CVE-2022-3219) on Ubuntu.
 ![image alt](https://github.com/krutikharwar22/Infotact-Project-1/blob/main/p8.png?raw=true)
 ![image alt](https://github.com/krutikharwar22/Infotact-Project-1/blob/main/p9.png?raw=true)
- 
+![image alt](https://github.com/krutikharwar22/Infotact-Project-1/blob/main/p10.png?raw=true)
 
  
 
