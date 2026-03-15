@@ -39,10 +39,8 @@ o	Result: Identified 1,000+ high-risk vulnerabilities on the Windows node and cr
 ![image alt](https://github.com/krutikharwar22/Infotact-Project-1/blob/main/p10.png?raw=true)
 
  
-
-
- 
 •	Custom Rules: Developed Rule 100001 in XML to detect targeted brute-force patterns specific to Infotact’s environment.
+![image alt](https://github.com/krutikharwar22/Infotact-Project-1/blob/main/p11.png?raw=true)
  
 **Week 3: Active Response (IPS)**
 •	Automated Mitigation: Configured the firewall-drop active-response script.
