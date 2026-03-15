@@ -53,8 +53,8 @@ o	Result: Identified 1,000+ high-risk vulnerabilities on the Windows node and cr
 
 **Week 4: Threat Simulation & MITRE Mapping**
 •	Adversary Simulation: Used Atomic Red Team techniques to simulate ransomware behavior (T1490 - Inhibit System Recovery).
- 
 •	Visualizing the Kill Chain: Mapped all alerts to the MITRE ATT&CK Framework on the Wazuh Dashboard, allowing the SOC team to visualize the attack from initial access to execution.
+![image alt](https://github.com/krutikharwar22/Infotact-Project-1/blob/main/p15.png?raw=true)
 ________________________________________
 **Evidence of Success (Audit Check)**
 Goal	Evidence Found in Project	Status:
