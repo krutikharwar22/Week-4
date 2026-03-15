@@ -65,11 +65,12 @@ o	Result: Identified 1,000+ high-risk vulnerabilities on the Windows node and cr
 •	Visualizing the Kill Chain: Mapped all alerts to the MITRE ATT&CK Framework on the Wazuh Dashboard, allowing the SOC team to visualize the attack from initial access to execution.
 ________________________________________
 3. Evidence of Success (Audit Check)
-|Goal|  |Evidence Found in Project|	|Status|
-|Real-time FIM| |	Alerts generated for test.txt and /etc/ modifications|	|Verified ✅|
-|System Visibility|	|Sysmon running on Windows; Wazuh Manager active|	|Verified ✅|
-|Vulnerability Assessment|	|Full inventory of High/Critical CVEs mapped|	|Verified ✅|
-|Custom Defense|	|XML Rule 100001 for "Bruce" (Brute-force) attacks|	|Verified ✅|
+|Goal	Evidence Found in Project	Status
+Real-time FIM	Alerts generated for test.txt and /etc/ modifications	Verified ✅
+System Visibility	Sysmon running on Windows; Wazuh Manager active	Verified ✅
+Vulnerability Assessment	Full inventory of High/Critical CVEs mapped	Verified ✅
+Custom Defense	XML Rule 100001 for "Bruce" (Brute-force) attacks	Verified ✅
+|
 ________________________________________
 **4. Professional Impact & Conclusion**
 The implementation of Sentient Shield has fundamentally transformed the security posture at Infotact Solutions by significantly reducing both the *Mean Time to Detect (MTTD) and Mean Time to Respond (MTTR). By transitioning the infrastructure from passive logging to Active Defense, the project now provides autonomous, real-time protection against sophisticated threats like ransomware and brute-force attacks.
